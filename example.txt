@@ -1,3 +1,1 @@
-Test File
-with test text
-This is to test how the branching works
+Completely replacing the text as per instructions
